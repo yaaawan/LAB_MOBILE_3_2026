@@ -58,7 +58,7 @@ Untuk mendukung tampilan yang nyaman di mata pada malam hari, aplikasi mengimple
 ---
 
 ## Identitas Pengembang
-**Nama**: Isnadiyah Nur Fadhilah  
+**Nama**: Isnadia Nurfadillah  
 **NIM**: H071241052  
 **Program Studi**: Sistem Informasi  
 **Instansi**: Universitas Hasanuddin (Unhas)
